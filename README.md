@@ -1,3 +1,7 @@
+Hello I am Joe aka fuzzlove a Security Researcher.
+
+<a href="https://www.buymeacoffee.com/fuzzlove"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=fuzzlove&button_colour=5F7FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
 End User License Agreement (EULA) / Disclaimer
 
 Important – Read Carefully
