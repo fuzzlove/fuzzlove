@@ -6,8 +6,6 @@ I tend to stay up late like I think most of us do working on code so if you wann
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/fuzzlove)
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-
 End User License Agreement (EULA) / Disclaimer
 
 Important – Read Carefully
@@ -36,3 +34,5 @@ By downloading, cloning, or using this repository, you acknowledge that you have
 If you do not agree, you must not use or distribute the materials.
 
 ⚠️ Reminder: Always obtain explicit written permission before conducting penetration testing or red team activities on any system you do not own.
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
