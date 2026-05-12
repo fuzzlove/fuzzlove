@@ -33,6 +33,8 @@ Acceptance
 By downloading, cloning, or using this repository, you acknowledge that you have read, understood, and agreed to this disclaimer.
 If you do not agree, you must not use or distribute the materials.
 
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 ⚠️ Reminder: Always obtain explicit written permission before conducting penetration testing or red team activities on any system you do not own.
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
