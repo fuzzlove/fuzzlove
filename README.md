@@ -1,4 +1,4 @@
-Hello, Im Joe aka fuzzlove a Security Researcher. Here you can find some of my public work. If you are interested in anything feel free to contact me.
+Hello, Im Joe (/me waves) aka fuzzlove a Security Researcher. Here you can find some of my public work. If you are interested in anything feel free to contact me.
 
 With that said please read the eula / disclaimer carefully my work is for educational purposes and to be used with the clients permission or in a lab.
 
