@@ -2,9 +2,13 @@ Hello, Im Joe aka fuzzlove a Security Researcher. Here you can find some of my p
 
 With that said please read the eula / disclaimer carefully my work is for educational purposes and to be used with the clients permission or in a lab.
 
+______________________________________________________________________________
+
 I tend to stay up late like I think most of us do working on code so if you wanna get me a coffee, much appreciated that!
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/fuzzlove)
+
+______________________________________________________________________________
 
 End User License Agreement (EULA) / Disclaimer
 
