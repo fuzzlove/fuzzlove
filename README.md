@@ -4,7 +4,7 @@ With that said please read the eula / disclaimer carefully my work is for educat
 
 ______________________________________________________________________________
 
-I tend to stay up late like I think most of us do working on code so if you wanna get me a coffee, much appreciated that!
+I tend to stay up late like I think most of us do working on code so if you wanna get me a coffee, I very much appreciate that!
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/fuzzlove)
 
