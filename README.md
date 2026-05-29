@@ -15,7 +15,7 @@ Projects, tooling, and research by [@fuzzlove](https://github.com/fuzzlove).
 - [CallBackCodeExecution-v1](https://github.com/fuzzlove/CallBackCodeExecution-v1) - CallBackCodeExecution v1 - Vanilla Series  (C, updated 2026-04-29)
 - [Cisco-ASA-FTD-Web-Services-Traversal](https://github.com/fuzzlove/Cisco-ASA-FTD-Web-Services-Traversal) - CVE-2020-3452 - Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) traversal  (Python, updated 2026-01-10)
 - [Cisco-UCS-Manager-2.2-1d-Remote-Command-Execution](https://github.com/fuzzlove/Cisco-UCS-Manager-2.2-1d-Remote-Command-Execution) - Cisco Bug: CSCur90888 - Cisco UCS Manager Remote Command Execution Vulnerability  (Python, updated 2021-02-05)
-- [Downgrade-Checker-iOS](https://github.com/fuzzlove/Downgrade-Checker-iOS) -  iOS Downgrade Party Checker ✅ 🥳  (Python, updated 2026-05-07)
+- [Downgrade-Checker-iOS](https://github.com/fuzzlove/Downgrade-Checker-iOS) -  iOS Downgrade Party Checker (Python, updated 2026-05-07)
 - [eLabFTW-1.8.5-EntityController-Arbitrary-File-Upload-RCE](https://github.com/fuzzlove/eLabFTW-1.8.5-EntityController-Arbitrary-File-Upload-RCE) - eLabFTW 1.8.5 'EntityController' Arbitrary File Upload / RCE (CVE-2019-12185)  (Python, updated 2024-08-12)
 - [FUDforum-XSS-RCE](https://github.com/fuzzlove/FUDforum-XSS-RCE) - FUDForum 3.0.9 - XSS / Remote Code Execution (CVE-2019-18873, CVE-2019-18839)  (JavaScript, updated 2022-07-16)
 - [GopherSSRF](https://github.com/fuzzlove/GopherSSRF) - Gopher HTTP requests (POST/GET)  (Python, updated 2025-10-26)
