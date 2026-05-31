@@ -1,5 +1,25 @@
 # fuzzlove
 
+  > [!CAUTION]
+  > ## Authorized Use Only
+  >
+  > This project is provided for lawful security research, education, and
+  > administration of systems you own or have explicit permission to test.
+  >
+  > Possession of this code does not grant permission to access, modify,
+  > disrupt, monitor, or damage any system, account, network, or data.
+  > You are responsible for understanding the laws, rules, and authorization
+  > requirements that apply before using it.
+  >
+  > Do not use this project to gain unauthorized access, evade security
+  > controls, impair services, exfiltrate data, or cause harm. Misuse may
+  > result in civil liability, criminal penalties, loss of access, or other
+  > consequences.
+  >
+  > This notice does not replace the project's license. The software is
+  > distributed under the [MIT License](./LICENSE), including its warranty
+  > disclaimer and limitation of liability.
+
 Projects, tooling, and research by [@fuzzlove](https://github.com/fuzzlove).
 
 ## Featured
