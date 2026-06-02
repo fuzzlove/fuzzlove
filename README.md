@@ -20,7 +20,7 @@
   > distributed under the [MIT License](./LICENSE), including its warranty
   > disclaimer and limitation of liability.
 
-<img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/e518bcb8-5595-43db-bf0b-f88c16da83cd" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/e7da53a1-36b2-40fb-9856-41c0c1409ab2" />
 
 
 Projects, tooling, and research by [@fuzzlove](https://github.com/fuzzlove).
