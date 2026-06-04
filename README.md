@@ -23,7 +23,9 @@
 ## Donations
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/e7da53a1-36b2-40fb-9856-41c0c1409ab2" />
 
-Projects, tooling, and research by [@fuzzlove](https://github.com/fuzzlove).
+---------------------
+
+Projects, tooling, and research by [@fuzzlove](https://github.com/fuzzlove
 
 ## Featured
 
