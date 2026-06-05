@@ -25,7 +25,7 @@
 
 ---------------------
 
-Projects, tooling, and research by [@fuzzlove](https://github.com/fuzzlove
+Projects, tooling, and research by [@fuzzlove](https://github.com/fuzzlove)
 
 ## Featured
 
