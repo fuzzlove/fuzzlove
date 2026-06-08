@@ -30,7 +30,7 @@ Projects, tooling, and research by [@fuzzlove](https://github.com/fuzzlove)
 ## Featured
 
 - [SparstanBoogie](https://github.com/fuzzlove/SparstanBoogie)
-- [MacOS Audit Agent](https://github.com/fuzzlove/macOS-Audit-Agent)
+- [MacOS Security Audit Agent](https://github.com/fuzzlove/macOS-Audit-Agent)
 
 ## Public Repositories
 
