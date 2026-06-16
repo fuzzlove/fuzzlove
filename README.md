@@ -30,6 +30,7 @@ Projects, tooling, and research by [@fuzzlove](https://github.com/fuzzlove)
 ## Featured
 
 - [MacOS Persistence Radar](https://github.com/fuzzlove/macOS-Persistence-Radar)
+- [MacOS Network Sentinel](https://github.com/fuzzlove/macOS-Network-Sentinel)
 - [SparstanBoogie](https://github.com/fuzzlove/SparstanBoogie)
 - [MacOS Security Audit Agent (MSAA)](https://github.com/fuzzlove/macOS-Audit-Agent)
 
