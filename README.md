@@ -34,6 +34,7 @@ Projects, tooling, and research by [@fuzzlove](https://github.com/fuzzlove)
 - [SparstanBoogie](https://github.com/fuzzlove/SparstanBoogie)
 - [MacOS Security Audit Agent (MSAA)](https://github.com/fuzzlove/macOS-Audit-Agent)
 - [MacOS Live Response Collector](https://github.com/fuzzlove/macOS-Live-Response-Collector)
+- [iPS-UU - iOS Upgrades/Downgrades](https://github.com/fuzzlove/iPS-UU)
 
 ## Public Repositories
 
