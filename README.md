@@ -35,7 +35,7 @@ Projects, tooling, and research by [@fuzzlove](https://github.com/fuzzlove)
 - [MacOS Security Audit Agent (MSAA)](https://github.com/fuzzlove/macOS-Audit-Agent)
 - [MacOS Live Response Collector](https://github.com/fuzzlove/macOS-Live-Response-Collector)
 - [iPS-UU - iOS Upgrades/Downgrades](https://github.com/fuzzlove/iPS-UU)
-- [How a hacker makes money online](https://liquidskysecurity.com/howahackermakemoney/)
+- [How a hacker makes money online (PoC)[WIP]-0day](https://liquidskysecurity.com/howahackermakemoney/)
 
 ## Public Repositories
 
