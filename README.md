@@ -31,7 +31,7 @@ Projects, tooling, and research by [@fuzzlove](https://github.com/fuzzlove)
 
 - [MacOS Persistence Radar](https://github.com/fuzzlove/macOS-Persistence-Radar)
 - [MacOS Network Sentinel](https://github.com/fuzzlove/macOS-Network-Sentinel)
-- [SparstanBoogie](https://github.com/fuzzlove/SparstanBoogie)
+- [SparstanBoogie iOS Jailbreak Tool](https://github.com/fuzzlove/SparstanBoogie)
 - [MacOS Security Audit Agent (MSAA)](https://github.com/fuzzlove/macOS-Audit-Agent)
 - [MacOS Live Response Collector](https://github.com/fuzzlove/macOS-Live-Response-Collector)
 - [iPS-UU - iOS Upgrades/Downgrades](https://github.com/fuzzlove/iPS-UU)
